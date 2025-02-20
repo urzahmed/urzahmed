@@ -12,7 +12,7 @@
 🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at urooz2002@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/15kDGckKBi05XtaN_-sdRda31iqMa4sEE/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/11R2r9I9CmkqTGp8LaXavnWFGqnqkTale/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="assets/Night-Coding.gif" align="right"/>
 
